@@ -1,0 +1,8 @@
+{
+  "mongodb": {
+    "connectionString": "mongodb+srv://adarshprajapati9711:LVOGQryWP5qyClj8@cluster0.yhdlymf.mongodb.net/?retryWrites=true&w=majority"
+  },
+  "jwt": {
+    "secret": "ExaminationsPortalsApplication"
+  }
+}
